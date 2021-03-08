@@ -1,0 +1,1001 @@
+ID,ADDRESSTYPE,ISDEFAULT,USER_ID,STREET,CITY,STATE,POSTALCODE
+1,1,1,1,2 Lyons Street,Reno,Nevada,89519
+2,1,1,2,9 Corry Place,Glendale,Arizona,85305
+3,1,1,3,5723 Ronald Regan Alley,Dallas,Texas,75216
+4,1,1,4,55503 Scofield Way,Visalia,California,93291
+5,1,1,5,9028 Delladonna Drive,Saint Louis,Missouri,63167
+6,1,1,6,848 Londonderry Point,Garland,Texas,75049
+7,1,1,7,221 Maywood Plaza,Gaithersburg,Maryland,20883
+8,1,1,8,58 Orin Court,Omaha,Nebraska,68110
+9,1,1,9,434 Morrow Plaza,Sterling,Virginia,20167
+10,1,1,10,99 Spenser Parkway,Kansas City,Missouri,64144
+11,1,1,11,5115 Nova Crossing,Arlington,Virginia,22217
+12,1,1,12,082 Anhalt Avenue,Erie,Pennsylvania,16565
+13,1,1,13,169 Burrows Center,Columbus,Ohio,43204
+14,1,1,14,69 Northland Road,Van Nuys,California,91499
+15,1,1,15,8 Lien Street,Fresno,California,93794
+16,1,1,16,683 Monica Crossing,Washington,District of Columbia,20078
+17,1,1,17,44 Cottonwood Road,Winston Salem,North Carolina,27116
+18,1,1,18,43913 Green Ridge Pass,Chicago,Illinois,60641
+19,1,1,19,00 Cottonwood Place,Billings,Montana,59112
+20,1,1,20,608 Ridge Oak Pass,Salt Lake City,Utah,84105
+21,1,1,21,57 Ryan Plaza,Arlington,Texas,76011
+22,1,1,22,99931 Valley Edge Point,Asheville,North Carolina,28805
+23,1,1,23,2 Stoughton Point,New York City,New York,10019
+24,1,1,24,94 Ruskin Plaza,El Paso,Texas,79977
+25,1,1,25,28458 Forest Run Road,Monticello,Minnesota,55590
+26,1,1,26,0837 Warbler Center,Washington,District of Columbia,20414
+27,1,1,27,631 Miller Street,Billings,Montana,59105
+28,1,1,28,01 Anthes Crossing,Pittsburgh,Pennsylvania,15286
+29,1,1,29,3984 Village Court,Pompano Beach,Florida,33064
+30,1,1,30,8 Prentice Parkway,Salt Lake City,Utah,84125
+31,1,1,31,2564 Tomscot Street,Lincoln,Nebraska,68517
+32,1,1,32,897 Mendota Trail,Bethlehem,Pennsylvania,18018
+33,1,1,33,1090 Westport Junction,Pasadena,California,91103
+34,1,1,34,2412 Vernon Junction,Irving,Texas,75037
+35,1,1,35,10 Corry Avenue,New Haven,Connecticut,06510
+36,1,1,36,6 Golf Course Plaza,Jackson,Mississippi,39216
+37,1,1,37,9551 Sauthoff Crossing,Spokane,Washington,99220
+38,1,1,38,44 Southridge Avenue,Silver Spring,Maryland,20904
+39,1,1,39,7361 Pennsylvania Point,Corpus Christi,Texas,78410
+40,1,1,40,8 Union Place,Athens,Georgia,30610
+41,1,1,41,73271 Nancy Plaza,Norfolk,Virginia,23520
+42,1,1,42,3685 Ridgeview Circle,Houston,Texas,77020
+43,1,1,43,5 Crest Line Hill,Charleston,South Carolina,29424
+44,1,1,44,410 Fair Oaks Avenue,Indianapolis,Indiana,46278
+45,1,1,45,9 Mcbride Alley,Las Vegas,Nevada,89155
+46,1,1,46,7463 Rigney Alley,Chicago,Illinois,60641
+47,1,1,47,0 Talisman Center,Norfolk,Virginia,23509
+48,1,1,48,6 Maywood Trail,Kansas City,Missouri,64144
+49,1,1,49,46 Luster Drive,Phoenix,Arizona,85067
+50,1,1,50,27522 Graedel Point,Austin,Texas,78754
+51,1,1,51,75251 Lakeland Plaza,Orlando,Florida,32868
+52,1,1,52,4 Lillian Avenue,Alexandria,Virginia,22301
+53,1,1,53,13279 Monterey Terrace,Little Rock,Arkansas,72209
+54,1,1,54,309 Upham Pass,Omaha,Nebraska,68134
+55,1,1,55,79091 Emmet Drive,Boca Raton,Florida,33487
+56,1,1,56,914 Lotheville Park,Tulsa,Oklahoma,74108
+57,1,1,57,0969 Artisan Center,Washington,District of Columbia,20073
+58,1,1,58,97 Comanche Junction,Miami,Florida,33124
+59,1,1,59,2314 Bartelt Street,Brooklyn,New York,11247
+60,1,1,60,6 Maryland Junction,El Paso,Texas,79916
+61,1,1,61,93 Main Pass,New Orleans,Louisiana,70179
+62,1,1,62,2 Shopko Circle,Fort Worth,Texas,76110
+63,1,1,63,6124 Troy Circle,Abilene,Texas,79699
+64,1,1,64,36 Morrow Plaza,Pueblo,Colorado,81010
+65,1,1,65,17 Drewry Point,Grand Rapids,Michigan,49518
+66,1,1,66,6 Schmedeman Center,Harrisburg,Pennsylvania,17126
+67,1,1,67,97 Atwood Alley,San Jose,California,95128
+68,1,1,68,7446 Barnett Trail,Miami,Florida,33111
+69,1,1,69,8 Riverside Street,Charlotte,North Carolina,28278
+70,1,1,70,24888 Arapahoe Plaza,Milwaukee,Wisconsin,53234
+71,1,1,71,15497 Monterey Plaza,Pasadena,California,91131
+72,1,1,72,7357 Hoepker Terrace,El Paso,Texas,79968
+73,1,1,73,7590 Barby Trail,San Diego,California,92137
+74,1,1,74,5225 Maywood Drive,Oakland,California,94616
+75,1,1,75,134 Pine View Way,Las Vegas,Nevada,89166
+76,1,1,76,79675 Village Green Street,Irvine,California,92717
+77,1,1,77,65820 Morningstar Center,Scottsdale,Arizona,85271
+78,1,1,78,64817 Shelley Trail,Jacksonville,Florida,32215
+79,1,1,79,116 Susan Crossing,Young America,Minnesota,55564
+80,1,1,80,2071 Pawling Circle,Washington,District of Columbia,20430
+81,1,1,81,4 Ronald Regan Court,Jacksonville,Florida,32215
+82,1,1,82,1689 Straubel Drive,Sacramento,California,94297
+83,1,1,83,69 6th Junction,Fort Worth,Texas,76121
+84,1,1,84,27965 Maple Wood Road,Portsmouth,New Hampshire,00214
+85,1,1,85,09 Westerfield Road,Kansas City,Kansas,66112
+86,1,1,86,7495 Sullivan Lane,Montgomery,Alabama,36195
+87,1,1,87,2 Rusk Junction,Minneapolis,Minnesota,55417
+88,1,1,88,5929 Hoard Point,Memphis,Tennessee,38126
+89,1,1,89,6 Ridge Oak Plaza,Lynchburg,Virginia,24515
+90,1,1,90,376 Leroy Parkway,Memphis,Tennessee,38161
+91,1,1,91,45 Parkside Hill,Louisville,Kentucky,40293
+92,1,1,92,71 Ilene Crossing,Erie,Pennsylvania,16550
+93,1,1,93,61 Brown Crossing,Dayton,Ohio,45440
+94,1,1,94,04 Lake View Trail,Saint Paul,Minnesota,55188
+95,1,1,95,714 Reinke Place,Austin,Texas,78744
+96,1,1,96,059 Haas Circle,Chesapeake,Virginia,23324
+97,1,1,97,684 Tony Road,Grand Rapids,Michigan,49544
+98,1,1,98,56 Columbus Pass,Lincoln,Nebraska,68524
+99,1,1,99,3 Pond Place,Vancouver,Washington,98687
+100,1,1,100,152 Quincy Terrace,Cleveland,Ohio,44111
+101,1,1,101,407 Rusk Road,Mobile,Alabama,36605
+102,1,1,102,84550 Bluejay Junction,Washington,District of Columbia,20022
+103,1,1,103,27 Merchant Avenue,Baton Rouge,Louisiana,70810
+104,1,1,104,2 Fallview Circle,Kansas City,Missouri,64190
+105,1,1,105,63 Esker Parkway,Charleston,West Virginia,25313
+106,1,1,106,388 Golf Lane,Memphis,Tennessee,38109
+107,1,1,107,3 Nevada Parkway,Saint Petersburg,Florida,33742
+108,1,1,108,59090 Mayer Circle,Anchorage,Alaska,99517
+109,1,1,109,644 Sunbrook Court,Spokane,Washington,99210
+110,1,1,110,74 Anderson Junction,Madison,Wisconsin,53790
+111,1,1,111,725 Mcguire Lane,Saginaw,Michigan,48604
+112,1,1,112,7 Glendale Pass,Indianapolis,Indiana,46202
+113,1,1,113,5735 Browning Terrace,White Plains,New York,10633
+114,1,1,114,9720 Thackeray Court,Cleveland,Ohio,44105
+115,1,1,115,877 Valley Edge Trail,Austin,Texas,78744
+116,1,1,116,406 Hoffman Junction,Boston,Massachusetts,02298
+117,1,1,117,65 Dayton Trail,Corpus Christi,Texas,78426
+118,1,1,118,0 Farwell Center,Pittsburgh,Pennsylvania,15286
+119,1,1,119,9104 Shelley Circle,Dallas,Texas,75379
+120,1,1,120,0576 Cordelia Alley,Los Angeles,California,90071
+121,1,1,121,108 Maple Pass,Fort Myers,Florida,33906
+122,1,1,122,6899 Merry Terrace,Tampa,Florida,33673
+123,1,1,123,91162 Carioca Center,Sacramento,California,95838
+124,1,1,124,46 6th Drive,Brockton,Massachusetts,02405
+125,1,1,125,090 Redwing Point,Spokane,Washington,99252
+126,1,1,126,711 Emmet Circle,Spokane,Washington,99215
+127,1,1,127,99 Roth Road,Washington,District of Columbia,20420
+128,1,1,128,84843 Anniversary Park,New Hyde Park,New York,11044
+129,1,1,129,08 Colorado Plaza,Sacramento,California,94291
+130,1,1,130,98240 Eliot Trail,Erie,Pennsylvania,16565
+131,1,1,131,52556 Amoth Circle,Washington,District of Columbia,20057
+132,1,1,132,62 Schiller Parkway,Saint Louis,Missouri,63116
+133,1,1,133,2651 Derek Road,Ann Arbor,Michigan,48107
+134,1,1,134,38 Mayer Drive,New Bedford,Massachusetts,02745
+135,1,1,135,4 Farmco Road,Jackson,Mississippi,39236
+136,1,1,136,39644 Amoth Alley,Santa Ana,California,92705
+137,1,1,137,184 Waywood Avenue,Honolulu,Hawaii,96840
+138,1,1,138,4 Melvin Junction,Manchester,New Hampshire,03105
+139,1,1,139,52555 Dexter Avenue,Phoenix,Arizona,85010
+140,1,1,140,79987 Mifflin Trail,Chicago,Illinois,60619
+141,1,1,141,2020 Main Avenue,Reno,Nevada,89519
+142,1,1,142,5 Jay Parkway,Santa Ana,California,92705
+143,1,1,143,4 Ridge Oak Junction,Gatesville,Texas,76598
+144,1,1,144,33770 Butterfield Parkway,Pensacola,Florida,32526
+145,1,1,145,7481 Jenna Park,Worcester,Massachusetts,01654
+146,1,1,146,91120 Union Place,Gulfport,Mississippi,39505
+147,1,1,147,648 Logan Plaza,Mount Vernon,New York,10557
+148,1,1,148,0519 Nelson Parkway,Memphis,Tennessee,38161
+149,1,1,149,1 Browning Pass,Philadelphia,Pennsylvania,19196
+150,1,1,150,9148 Sutteridge Court,San Antonio,Texas,78250
+151,1,1,151,87866 Weeping Birch Drive,Green Bay,Wisconsin,54305
+152,1,1,152,61222 Kedzie Crossing,Sarasota,Florida,34233
+153,1,1,153,46263 Delaware Center,Indianapolis,Indiana,46239
+154,1,1,154,77 Laurel Crossing,Akron,Ohio,44310
+155,1,1,155,61 Dwight Way,Las Vegas,Nevada,89120
+156,1,1,156,6 Barnett Junction,Albany,New York,12227
+157,1,1,157,5254 Utah Parkway,Saint Paul,Minnesota,55127
+158,1,1,158,34983 Mayfield Street,Waltham,Massachusetts,02453
+159,1,1,159,6175 Schmedeman Center,Sacramento,California,95865
+160,1,1,160,5428 Huxley Park,Norman,Oklahoma,73071
+161,1,1,161,118 Burrows Junction,Baton Rouge,Louisiana,70810
+162,1,1,162,21 Banding Place,Naples,Florida,34102
+163,1,1,163,7 Surrey Alley,New Orleans,Louisiana,70174
+164,1,1,164,1 Debra Circle,Cedar Rapids,Iowa,52405
+165,1,1,165,9279 Spaight Pass,Mesa,Arizona,85215
+166,1,1,166,85 Melvin Park,Nashville,Tennessee,37215
+167,1,1,167,37 1st Drive,Cedar Rapids,Iowa,52410
+168,1,1,168,25048 Magdeline Point,Wichita,Kansas,67215
+169,1,1,169,75 Fremont Point,Saint Paul,Minnesota,55114
+170,1,1,170,8 Cherokee Park,Erie,Pennsylvania,16510
+171,1,1,171,91 Esch Place,San Jose,California,95113
+172,1,1,172,2038 Park Meadow Center,Green Bay,Wisconsin,54305
+173,1,1,173,1 2nd Terrace,Richmond,Virginia,23237
+174,1,1,174,390 Brown Lane,Hartford,Connecticut,06160
+175,1,1,175,07 Grover Center,North Little Rock,Arkansas,72118
+176,1,1,176,7 Golf View Circle,Huntsville,Alabama,35805
+177,1,1,177,1 Dorton Lane,New Orleans,Louisiana,70187
+178,1,1,178,4 Jenifer Terrace,Portsmouth,New Hampshire,03804
+179,1,1,179,5 Merry Court,San Francisco,California,94177
+180,1,1,180,17 Algoma Alley,Austin,Texas,78769
+181,1,1,181,560 Londonderry Center,Austin,Texas,78783
+182,1,1,182,9 Dennis Parkway,Camden,New Jersey,08104
+183,1,1,183,57246 Hallows Hill,Sioux Falls,South Dakota,57110
+184,1,1,184,0801 Eagle Crest Drive,Tempe,Arizona,85284
+185,1,1,185,2061 Fulton Circle,Topeka,Kansas,66642
+186,1,1,186,3 Mccormick Terrace,Fort Worth,Texas,76115
+187,1,1,187,4 Schurz Junction,Richmond,Virginia,23208
+188,1,1,188,94 Montana Court,Austin,Texas,78789
+189,1,1,189,811 New Castle Plaza,Cedar Rapids,Iowa,52405
+190,1,1,190,1135 Pleasure Street,Evansville,Indiana,47712
+191,1,1,191,6 Morning Way,Dayton,Ohio,45432
+192,1,1,192,47007 Arrowood Alley,North Las Vegas,Nevada,89036
+193,1,1,193,170 Arapahoe Drive,Atlanta,Georgia,30306
+194,1,1,194,15 Dennis Crossing,Riverside,California,92519
+195,1,1,195,00501 Dayton Way,Lansing,Michigan,48930
+196,1,1,196,49 Bunting Point,Phoenix,Arizona,85067
+197,1,1,197,11185 Maryland Point,Richmond,Virginia,23260
+198,1,1,198,5290 Fieldstone Avenue,Chesapeake,Virginia,23324
+199,1,1,199,72 Pankratz Court,Miami,Florida,33169
+200,1,1,200,27 Armistice Drive,Alexandria,Louisiana,71307
+201,1,1,201,028 Stoughton Alley,Fort Smith,Arkansas,72916
+202,1,1,202,1381 Duke Way,Dallas,Texas,75392
+203,1,1,203,452 Cardinal Crossing,San Antonio,Texas,78230
+204,1,1,204,41 Hazelcrest Plaza,Miami,Florida,33164
+205,1,1,205,43 Rusk Point,New York City,New York,10275
+206,1,1,206,0 Haas Junction,Berkeley,California,94712
+207,1,1,207,7 Towne Alley,El Paso,Texas,88546
+208,1,1,208,15 Transport Point,Canton,Ohio,44710
+209,1,1,209,0918 Dayton Circle,Atlanta,Georgia,31165
+210,1,1,210,839 1st Point,Newark,Delaware,19725
+211,1,1,211,0 Briar Crest Alley,Peoria,Illinois,61656
+212,1,1,212,470 Ridge Oak Terrace,Phoenix,Arizona,85077
+213,1,1,213,49562 Northview Alley,Shawnee Mission,Kansas,66225
+214,1,1,214,7720 Superior Junction,Tacoma,Washington,98442
+215,1,1,215,316 Loftsgordon Junction,Minneapolis,Minnesota,55417
+216,1,1,216,0 Rieder Street,Palatine,Illinois,60078
+217,1,1,217,5 Weeping Birch Place,Birmingham,Alabama,35205
+218,1,1,218,7 Raven Park,Washington,District of Columbia,20057
+219,1,1,219,154 Calypso Center,Louisville,Kentucky,40215
+220,1,1,220,4136 Gateway Drive,Denver,Colorado,80291
+221,1,1,221,621 Northwestern Junction,Gainesville,Florida,32605
+222,1,1,222,6 Oriole Street,Las Vegas,Nevada,89178
+223,1,1,223,5 Randy Alley,San Diego,California,92165
+224,1,1,224,79 Cottonwood Crossing,Sioux Falls,South Dakota,57188
+225,1,1,225,35 Lerdahl Road,Jacksonville,Florida,32209
+226,1,1,226,40 Stuart Avenue,Fargo,North Dakota,58106
+227,1,1,227,364 Everett Point,Shreveport,Louisiana,71166
+228,1,1,228,20 Vera Lane,Salinas,California,93907
+229,1,1,229,4692 Laurel Junction,Austin,Texas,78789
+230,1,1,230,27882 Lillian Place,Baltimore,Maryland,21239
+231,1,1,231,937 Clemons Junction,Sterling,Virginia,20167
+232,1,1,232,74322 Carioca Way,Monroe,Louisiana,71208
+233,1,1,233,9307 Grasskamp Alley,Wilkes Barre,Pennsylvania,18763
+234,1,1,234,589 Calypso Pass,Wilkes Barre,Pennsylvania,18768
+235,1,1,235,261 Pierstorff Way,Boulder,Colorado,80305
+236,1,1,236,254 Pierstorff Center,Iowa City,Iowa,52245
+237,1,1,237,78326 Vidon Circle,Memphis,Tennessee,38181
+238,1,1,238,0 Center Drive,Philadelphia,Pennsylvania,19191
+239,1,1,239,04 Kropf Plaza,Tulsa,Oklahoma,74156
+240,1,1,240,9 Fuller Terrace,Columbus,Ohio,43215
+241,1,1,241,83 Everett Avenue,Albuquerque,New Mexico,87110
+242,1,1,242,44 Holmberg Street,Lexington,Kentucky,40576
+243,1,1,243,1707 Oxford Pass,Monticello,Minnesota,55590
+244,1,1,244,682 Kinsman Way,New York City,New York,10249
+245,1,1,245,87324 Trailsway Way,Woburn,Massachusetts,01813
+246,1,1,246,7 Doe Crossing Trail,Miami,Florida,33158
+247,1,1,247,9 Bashford Plaza,Columbia,South Carolina,29215
+248,1,1,248,98760 Everett Park,Richmond,Virginia,23213
+249,1,1,249,29 Summerview Court,Visalia,California,93291
+250,1,1,250,4068 Lotheville Place,Fort Lauderdale,Florida,33325
+251,1,1,251,17669 Dixon Crossing,Richmond,Virginia,23293
+252,1,1,252,74 Carey Junction,Chicago,Illinois,60663
+253,1,1,253,91555 Armistice Crossing,Cincinnati,Ohio,45233
+254,1,1,254,7220 Ryan Parkway,Milwaukee,Wisconsin,53277
+255,1,1,255,58 Rusk Way,Washington,District of Columbia,20566
+256,1,1,256,175 Grim Alley,Dallas,Texas,75353
+257,1,1,257,9 Ruskin Terrace,Harrisburg,Pennsylvania,17105
+258,1,1,258,96 Shopko Street,Fullerton,California,92640
+259,1,1,259,857 Golf Course Street,Pensacola,Florida,32520
+260,1,1,260,500 Charing Cross Street,San Jose,California,95123
+261,1,1,261,32 Melody Plaza,Amarillo,Texas,79118
+262,1,1,262,61 Vahlen Crossing,Mobile,Alabama,36616
+263,1,1,263,413 Ridge Oak Circle,Miami,Florida,33175
+264,1,1,264,6 Loeprich Hill,Syracuse,New York,13205
+265,1,1,265,457 La Follette Park,Colorado Springs,Colorado,80940
+266,1,1,266,4797 Warbler Junction,Sioux Falls,South Dakota,57198
+267,1,1,267,94832 Dryden Park,Amarillo,Texas,79171
+268,1,1,268,40784 Di Loreto Point,Sioux Falls,South Dakota,57110
+269,1,1,269,61804 Brentwood Trail,Durham,North Carolina,27717
+270,1,1,270,0774 Melrose Drive,Saint Petersburg,Florida,33737
+271,1,1,271,84090 Westridge Drive,Billings,Montana,59105
+272,1,1,272,708 Forster Court,Corpus Christi,Texas,78426
+273,1,1,273,9625 Loomis Junction,Buffalo,New York,14215
+274,1,1,274,053 8th Hill,Detroit,Michigan,48295
+275,1,1,275,0420 Scofield Junction,Carson City,Nevada,89706
+276,1,1,276,49 Nelson Circle,Atlanta,Georgia,30301
+277,1,1,277,2154 Butterfield Junction,Washington,District of Columbia,20456
+278,1,1,278,6 Warbler Parkway,Largo,Florida,33777
+279,1,1,279,525 Ridge Oak Plaza,Irvine,California,92717
+280,1,1,280,3502 Warbler Street,Lees Summit,Missouri,64082
+281,1,1,281,7282 Kinsman Junction,Reno,Nevada,89595
+282,1,1,282,0 Independence Road,Chico,California,95973
+283,1,1,283,7955 New Castle Court,Shreveport,Louisiana,71105
+284,1,1,284,05584 Grayhawk Alley,Milwaukee,Wisconsin,53220
+285,1,1,285,708 Blaine Park,Dallas,Texas,75246
+286,1,1,286,2787 Nevada Hill,Atlanta,Georgia,30358
+287,1,1,287,813 Trailsway Terrace,Washington,District of Columbia,20442
+288,1,1,288,01479 Sheridan Center,New Orleans,Louisiana,70183
+289,1,1,289,573 Meadow Valley Circle,Wichita,Kansas,67260
+290,1,1,290,72547 6th Junction,Topeka,Kansas,66622
+291,1,1,291,99375 Golf Avenue,Mobile,Alabama,36628
+292,1,1,292,14 Clarendon Hill,Las Vegas,Nevada,89125
+293,1,1,293,4 Lien Pass,Sacramento,California,95894
+294,1,1,294,9 Hazelcrest Crossing,New York City,New York,10260
+295,1,1,295,42 Hanover Junction,New York City,New York,10045
+296,1,1,296,7 Pennsylvania Plaza,Wichita Falls,Texas,76305
+297,1,1,297,7 Service Crossing,Memphis,Tennessee,38143
+298,1,1,298,47 Twin Pines Center,Albuquerque,New Mexico,87201
+299,1,1,299,03566 Delladonna Road,Augusta,Georgia,30919
+300,1,1,300,21 Longview Parkway,Phoenix,Arizona,85035
+301,1,1,301,17083 Kedzie Lane,Mount Vernon,New York,10557
+302,1,1,302,31 Pleasure Trail,Northridge,California,91328
+303,1,1,303,42 Nelson Way,Houston,Texas,77060
+304,1,1,304,952 Westport Place,Rochester,New York,14609
+305,1,1,305,42 Ohio Trail,Denver,Colorado,80235
+306,1,1,306,9143 Elgar Point,Omaha,Nebraska,68134
+307,1,1,307,11 Annamark Pass,Shreveport,Louisiana,71161
+308,1,1,308,22 Morrow Parkway,Des Moines,Iowa,50393
+309,1,1,309,7 Marquette Park,Tulsa,Oklahoma,74133
+310,1,1,310,67700 Warrior Place,New York City,New York,10004
+311,1,1,311,3 Laurel Center,Scottsdale,Arizona,85271
+312,1,1,312,34630 Saint Paul Terrace,Philadelphia,Pennsylvania,19146
+313,1,1,313,93327 Mariners Cove Alley,Toledo,Ohio,43635
+314,1,1,314,97418 Bayside Road,Boulder,Colorado,80310
+315,1,1,315,59353 Surrey Center,Bloomington,Indiana,47405
+316,1,1,316,43288 Reinke Lane,Toledo,Ohio,43610
+317,1,1,317,6 Fallview Pass,Arlington,Texas,76004
+318,1,1,318,652 Karstens Center,Laredo,Texas,78044
+319,1,1,319,7188 Sheridan Crossing,Chicago,Illinois,60686
+320,1,1,320,8472 Vernon Trail,High Point,North Carolina,27264
+321,1,1,321,301 Everett Parkway,Denver,Colorado,80223
+322,1,1,322,775 Everett Center,Kansas City,Missouri,64190
+323,1,1,323,76307 Autumn Leaf Center,Hot Springs National Park,Arkansas,71914
+324,1,1,324,01 Vidon Terrace,Washington,District of Columbia,20557
+325,1,1,325,42 Helena Avenue,Denver,Colorado,80204
+326,1,1,326,73385 Orin Way,Arlington,Texas,76011
+327,1,1,327,9 Pierstorff Place,Sacramento,California,94291
+328,1,1,328,55055 Old Gate Lane,Morgantown,West Virginia,26505
+329,1,1,329,2 Debra Center,Hartford,Connecticut,06160
+330,1,1,330,2499 Lotheville Court,Honolulu,Hawaii,96810
+331,1,1,331,8158 Bartelt Pass,Chicago,Illinois,60641
+332,1,1,332,6 Kinsman Plaza,Mobile,Alabama,36616
+333,1,1,333,063 Blue Bill Park Hill,Brockton,Massachusetts,02405
+334,1,1,334,6655 Cherokee Terrace,Long Beach,California,90831
+335,1,1,335,21 Mccormick Pass,Washington,District of Columbia,20540
+336,1,1,336,74 Mccormick Trail,Tucson,Arizona,85732
+337,1,1,337,9793 Ronald Regan Parkway,Huntington,West Virginia,25709
+338,1,1,338,08653 Moulton Place,Cedar Rapids,Iowa,52410
+339,1,1,339,6098 Welch Circle,Chattanooga,Tennessee,37450
+340,1,1,340,3 Farragut Circle,Fort Pierce,Florida,34981
+341,1,1,341,9270 Hintze Court,Sacramento,California,94273
+342,1,1,342,029 Eastlawn Plaza,Miami,Florida,33233
+343,1,1,343,311 Bay Place,Berkeley,California,94705
+344,1,1,344,0 2nd Terrace,Jamaica,New York,11436
+345,1,1,345,63 Florence Alley,Kent,Washington,98042
+346,1,1,346,7778 Vermont Crossing,New York City,New York,10165
+347,1,1,347,56476 Merchant Circle,Boston,Massachusetts,02104
+348,1,1,348,7 Huxley Point,Los Angeles,California,90055
+349,1,1,349,18558 Bunker Hill Point,Atlanta,Georgia,31136
+350,1,1,350,208 Menomonie Way,Oklahoma City,Oklahoma,73167
+351,1,1,351,8 Division Plaza,Miami,Florida,33245
+352,1,1,352,90958 Pine View Crossing,Baltimore,Maryland,21211
+353,1,1,353,13 Express Alley,Corpus Christi,Texas,78405
+354,1,1,354,09 Prairieview Street,Johnson City,Tennessee,37605
+355,1,1,355,2073 Lotheville Park,Anniston,Alabama,36205
+356,1,1,356,4677 Cottonwood Terrace,Canton,Ohio,44720
+357,1,1,357,9 International Avenue,Baton Rouge,Louisiana,70836
+358,1,1,358,3858 Bobwhite Parkway,San Francisco,California,94132
+359,1,1,359,7313 Petterle Drive,Miami,Florida,33124
+360,1,1,360,1 Crownhardt Pass,Lake Worth,Florida,33462
+361,1,1,361,4 Utah Center,Greensboro,North Carolina,27499
+362,1,1,362,5 Ruskin Trail,Jamaica,New York,11407
+363,1,1,363,632 Merchant Parkway,Honolulu,Hawaii,96825
+364,1,1,364,6 Oakridge Place,Toledo,Ohio,43610
+365,1,1,365,3634 Northview Alley,Amarillo,Texas,79188
+366,1,1,366,6538 Cascade Junction,Olympia,Washington,98516
+367,1,1,367,64905 Melody Lane,Louisville,Kentucky,40298
+368,1,1,368,479 Prentice Avenue,Syracuse,New York,13205
+369,1,1,369,21743 Utah Circle,Los Angeles,California,90050
+370,1,1,370,14 Anthes Trail,Dallas,Texas,75231
+371,1,1,371,51 Warbler Trail,Madison,Wisconsin,53705
+372,1,1,372,9 Steensland Court,Oklahoma City,Oklahoma,73129
+373,1,1,373,2922 Gulseth Pass,Monticello,Minnesota,55565
+374,1,1,374,4 Continental Avenue,Springfield,Illinois,62711
+375,1,1,375,27 Independence Park,Wichita,Kansas,67230
+376,1,1,376,240 Prairieview Circle,Aurora,Colorado,80015
+377,1,1,377,39965 Nobel Alley,Racine,Wisconsin,53405
+378,1,1,378,587 Tennessee Junction,Portland,Oregon,97229
+379,1,1,379,44 Hauk Way,Syracuse,New York,13217
+380,1,1,380,36 Holmberg Drive,Indianapolis,Indiana,46226
+381,1,1,381,60855 Lighthouse Bay Trail,Saint Paul,Minnesota,55114
+382,1,1,382,939 Charing Cross Junction,Harrisburg,Pennsylvania,17140
+383,1,1,383,52079 Park Meadow Parkway,Baltimore,Maryland,21265
+384,1,1,384,9 Eggendart Terrace,Schenectady,New York,12305
+385,1,1,385,21206 Talisman Avenue,Springfield,Virginia,22156
+386,1,1,386,6379 Prairieview Parkway,Sacramento,California,94297
+387,1,1,387,37 Oak Valley Circle,Crawfordsville,Indiana,47937
+388,1,1,388,386 Cody Crossing,Greenville,South Carolina,29610
+389,1,1,389,5 Garrison Park,Salem,Oregon,97312
+390,1,1,390,5564 Spenser Way,Seattle,Washington,98133
+391,1,1,391,91321 Clemons Parkway,Vancouver,Washington,98664
+392,1,1,392,5878 Canary Lane,Laurel,Maryland,20709
+393,1,1,393,11 Burning Wood Road,Philadelphia,Pennsylvania,19196
+394,1,1,394,2 Johnson Road,Pensacola,Florida,32526
+395,1,1,395,33994 1st Park,Fresno,California,93762
+396,1,1,396,6632 Mayfield Park,El Paso,Texas,88530
+397,1,1,397,648 Northfield Place,New York City,New York,10009
+398,1,1,398,5 Forest Run Parkway,Richmond,Virginia,23272
+399,1,1,399,372 Dahle Road,Dallas,Texas,75221
+400,1,1,400,6 Katie Terrace,Bellevue,Washington,98008
+401,1,1,401,60783 Sommers Pass,Los Angeles,California,90055
+402,1,1,402,6718 Maple Terrace,Honolulu,Hawaii,96825
+403,1,1,403,924 Brentwood Court,Spokane,Washington,99220
+404,1,1,404,23660 Merry Street,Rochester,New York,14609
+405,1,1,405,16184 Spenser Road,Shawnee Mission,Kansas,66210
+406,1,1,406,47344 Dryden Terrace,Nashville,Tennessee,37205
+407,1,1,407,52870 Nancy Terrace,Harrisburg,Pennsylvania,17121
+408,1,1,408,8 1st Point,Paterson,New Jersey,07522
+409,1,1,409,74 4th Way,Hartford,Connecticut,06145
+410,1,1,410,7541 Hoard Avenue,Lincoln,Nebraska,68505
+411,1,1,411,22 Clove Avenue,Lake Worth,Florida,33462
+412,1,1,412,363 Hoffman Hill,Grand Rapids,Michigan,49560
+413,1,1,413,835 Helena Way,Eugene,Oregon,97405
+414,1,1,414,878 Eagan Point,Oakland,California,94622
+415,1,1,415,64 Riverside Drive,Philadelphia,Pennsylvania,19141
+416,1,1,416,2 Vidon Drive,Duluth,Georgia,30096
+417,1,1,417,2000 Hanson Road,Jamaica,New York,11480
+418,1,1,418,02 Cody Crossing,Olympia,Washington,98506
+419,1,1,419,06 Hovde Street,Birmingham,Alabama,35295
+420,1,1,420,2592 Oakridge Drive,Wichita,Kansas,67230
+421,1,1,421,8 Sunfield Avenue,Fresno,California,93721
+422,1,1,422,8 Village Center,Brooksville,Florida,34605
+423,1,1,423,9 Cherokee Drive,El Paso,Texas,79950
+424,1,1,424,2920 Hanover Park,North Hollywood,California,91616
+425,1,1,425,446 Talmadge Drive,Richmond,Virginia,23293
+426,1,1,426,04 Daystar Point,Hampton,Virginia,23663
+427,1,1,427,48 Menomonie Park,Tacoma,Washington,98424
+428,1,1,428,83062 Bartelt Point,Johnstown,Pennsylvania,15906
+429,1,1,429,184 Warrior Trail,Albuquerque,New Mexico,87140
+430,1,1,430,72 Hoepker Park,Corona,California,92883
+431,1,1,431,878 Darwin Lane,Omaha,Nebraska,68197
+432,1,1,432,9 Mendota Street,Brockton,Massachusetts,02405
+433,1,1,433,6 Dunning Circle,Glendale,Arizona,85311
+434,1,1,434,2 Village Center,Dayton,Ohio,45403
+435,1,1,435,7084 Park Meadow Hill,New Orleans,Louisiana,70165
+436,1,1,436,27961 Lukken Alley,Albuquerque,New Mexico,87110
+437,1,1,437,909 Buell Avenue,Cincinnati,Ohio,45233
+438,1,1,438,15 Sherman Way,Katy,Texas,77493
+439,1,1,439,10694 Cottonwood Center,Cincinnati,Ohio,45208
+440,1,1,440,3927 Scott Road,Minneapolis,Minnesota,55428
+441,1,1,441,3 Vera Court,Columbus,Georgia,31998
+442,1,1,442,24 Manufacturers Crossing,San Jose,California,95108
+443,1,1,443,48820 Morning Point,Winter Haven,Florida,33884
+444,1,1,444,244 Erie Parkway,Atlanta,Georgia,30343
+445,1,1,445,7 Red Cloud Lane,Memphis,Tennessee,38168
+446,1,1,446,775 Ruskin Terrace,Woburn,Massachusetts,01813
+447,1,1,447,585 Jackson Place,Miami,Florida,33164
+448,1,1,448,7 Towne Point,Atlanta,Georgia,30356
+449,1,1,449,5 Sheridan Pass,Orlando,Florida,32891
+450,1,1,450,3 Sachtjen Crossing,El Paso,Texas,88569
+451,1,1,451,2 Garrison Trail,Terre Haute,Indiana,47805
+452,1,1,452,862 Birchwood Court,Ridgely,Maryland,21684
+453,1,1,453,6422 Melvin Court,Springfield,Missouri,65898
+454,1,1,454,9 Hermina Junction,Huntsville,Texas,77343
+455,1,1,455,07517 Tennyson Drive,Boston,Massachusetts,02104
+456,1,1,456,05547 Chinook Avenue,Warren,Ohio,44485
+457,1,1,457,9698 Sommers Place,Lawrenceville,Georgia,30245
+458,1,1,458,18 Judy Road,Arlington,Virginia,22205
+459,1,1,459,4 Farwell Pass,Phoenix,Arizona,85005
+460,1,1,460,72505 Michigan Crossing,Miami,Florida,33169
+461,1,1,461,849 Hauk Junction,El Paso,Texas,79911
+462,1,1,462,23737 Dahle Plaza,Raleigh,North Carolina,27605
+463,1,1,463,29 Homewood Circle,Springfield,Missouri,65805
+464,1,1,464,01660 West Court,Saint Louis,Missouri,63196
+465,1,1,465,424 Menomonie Lane,Atlanta,Georgia,30380
+466,1,1,466,51 Northfield Parkway,Austin,Texas,78778
+467,1,1,467,1578 Oriole Avenue,Kissimmee,Florida,34745
+468,1,1,468,26 Manitowish Parkway,Scottsdale,Arizona,85255
+469,1,1,469,5160 Elka Lane,Brooklyn,New York,11247
+470,1,1,470,861 Declaration Park,Sacramento,California,95838
+471,1,1,471,471 Hanover Place,Hyattsville,Maryland,20784
+472,1,1,472,3836 Carioca Plaza,Orlando,Florida,32813
+473,1,1,473,42484 Rusk Drive,Houston,Texas,77266
+474,1,1,474,740 Daystar Plaza,Little Rock,Arkansas,72222
+475,1,1,475,17860 Hanson Lane,Anaheim,California,92825
+476,1,1,476,1 John Wall Trail,Pomona,California,91797
+477,1,1,477,8740 Sachtjen Terrace,Clearwater,Florida,34620
+478,1,1,478,2419 Hazelcrest Pass,Chicago,Illinois,60686
+479,1,1,479,102 Loeprich Hill,Wilmington,Delaware,19810
+480,1,1,480,03 Dapin Alley,Harrisburg,Pennsylvania,17126
+481,1,1,481,798 4th Pass,Des Moines,Iowa,50315
+482,1,1,482,1329 Merrick Alley,Shreveport,Louisiana,71137
+483,1,1,483,4 Melvin Point,Santa Monica,California,90410
+484,1,1,484,956 Lien Circle,Minneapolis,Minnesota,55458
+485,1,1,485,743 Elmside Lane,Charlotte,North Carolina,28220
+486,1,1,486,255 Monterey Point,Palm Bay,Florida,32909
+487,1,1,487,65779 Killdeer Plaza,Philadelphia,Pennsylvania,19146
+488,1,1,488,0385 Magdeline Alley,Bronx,New York,10469
+489,1,1,489,54446 Manitowish Center,Charlotte,North Carolina,28242
+490,1,1,490,40 Shasta Place,Durham,North Carolina,27705
+491,1,1,491,7003 Lyons Hill,Richmond,Virginia,23285
+492,1,1,492,72616 Forest Run Road,Long Beach,California,90840
+493,1,1,493,1 Lake View Center,El Paso,Texas,88569
+494,1,1,494,3 Brentwood Place,Warren,Michigan,48092
+495,1,1,495,0 Crownhardt Park,Lexington,Kentucky,40510
+496,1,1,496,46 Arizona Court,Winston Salem,North Carolina,27116
+497,1,1,497,95 Lakeland Plaza,Naples,Florida,33961
+498,1,1,498,8528 Hoard Parkway,Bronx,New York,10464
+499,1,1,499,020 Monterey Lane,Cleveland,Ohio,44118
+500,1,1,500,333 Rockefeller Street,Sacramento,California,94263
+501,1,1,501,7891 Blaine Point,Bradenton,Florida,34205
+502,1,1,502,798 Petterle Way,Washington,District of Columbia,20525
+503,1,1,503,78661 Hayes Center,Dulles,Virginia,20189
+504,1,1,504,9 Warrior Hill,Miami,Florida,33190
+505,1,1,505,74575 Anthes Trail,Toledo,Ohio,43605
+506,1,1,506,042 Trailsway Court,Knoxville,Tennessee,37931
+507,1,1,507,042 Caliangt Pass,Columbus,Ohio,43240
+508,1,1,508,82 Beilfuss Drive,Newark,New Jersey,07104
+509,1,1,509,73 Manitowish Plaza,Round Rock,Texas,78682
+510,1,1,510,33 Sommers Street,Kalamazoo,Michigan,49048
+511,1,1,511,3899 Truax Alley,Flint,Michigan,48555
+512,1,1,512,3380 Transport Alley,Fresno,California,93740
+513,1,1,513,30 Veith Court,Hialeah,Florida,33013
+514,1,1,514,57 Raven Crossing,Portland,Oregon,97232
+515,1,1,515,36295 Dexter Lane,Saginaw,Michigan,48609
+516,1,1,516,19 Becker Parkway,Little Rock,Arkansas,72209
+517,1,1,517,30354 Everett Court,Los Angeles,California,90081
+518,1,1,518,4 American Avenue,Tampa,Florida,33620
+519,1,1,519,9157 Fairfield Court,Seattle,Washington,98127
+520,1,1,520,8 Moulton Center,El Paso,Texas,79923
+521,1,1,521,0 Katie Junction,Fort Lauderdale,Florida,33315
+522,1,1,522,49591 Artisan Junction,San Francisco,California,94132
+523,1,1,523,04548 Autumn Leaf Pass,Wichita,Kansas,67205
+524,1,1,524,697 Ridgeview Crossing,El Paso,Texas,88563
+525,1,1,525,2567 Northridge Place,Nashville,Tennessee,37245
+526,1,1,526,86633 Valley Edge Trail,Saint Louis,Missouri,63167
+527,1,1,527,07 Moulton Avenue,Cumming,Georgia,30130
+528,1,1,528,42713 Monument Junction,Norwalk,Connecticut,06854
+529,1,1,529,6 Sugar Street,Dallas,Texas,75323
+530,1,1,530,4479 Jenifer Alley,New Bedford,Massachusetts,02745
+531,1,1,531,2096 Fieldstone Crossing,Saint Petersburg,Florida,33715
+532,1,1,532,15420 6th Lane,Charleston,West Virginia,25336
+533,1,1,533,0938 Commercial Way,Birmingham,Alabama,35279
+534,1,1,534,7916 Ohio Avenue,Jefferson City,Missouri,65105
+535,1,1,535,45 Independence Drive,Milwaukee,Wisconsin,53220
+536,1,1,536,33 Tomscot Hill,Cincinnati,Ohio,45238
+537,1,1,537,003 Columbus Alley,Lansing,Michigan,48912
+538,1,1,538,97576 Graceland Drive,Littleton,Colorado,80126
+539,1,1,539,1 Dapin Hill,Albany,New York,12247
+540,1,1,540,8534 Dorton Parkway,Cleveland,Ohio,44185
+541,1,1,541,57518 East Drive,Corpus Christi,Texas,78465
+542,1,1,542,13961 Oxford Park,Los Angeles,California,90101
+543,1,1,543,2 Nevada Hill,Huntington,West Virginia,25721
+544,1,1,544,981 Redwing Circle,Paterson,New Jersey,07544
+545,1,1,545,5 Waxwing Parkway,Tampa,Florida,33647
+546,1,1,546,16 Crownhardt Circle,Memphis,Tennessee,38150
+547,1,1,547,606 Merchant Lane,Los Angeles,California,90030
+548,1,1,548,42 Towne Alley,Detroit,Michigan,48242
+549,1,1,549,8 Melby Court,Irvine,California,92619
+550,1,1,550,4181 Ridge Oak Court,Schaumburg,Illinois,60193
+551,1,1,551,8623 Anniversary Lane,Dallas,Texas,75236
+552,1,1,552,78410 Park Meadow Park,Winston Salem,North Carolina,27157
+553,1,1,553,81 Chinook Court,San Bernardino,California,92405
+554,1,1,554,12 Coolidge Court,Charleston,West Virginia,25362
+555,1,1,555,15713 Declaration Street,Huntsville,Alabama,35805
+556,1,1,556,3 Morningstar Trail,Jackson,Mississippi,39210
+557,1,1,557,3642 Logan Avenue,Tulsa,Oklahoma,74116
+558,1,1,558,58760 Barnett Street,Jamaica,New York,11480
+559,1,1,559,9889 Dennis Park,Young America,Minnesota,55564
+560,1,1,560,51 Meadow Ridge Junction,San Luis Obispo,California,93407
+561,1,1,561,9 Porter Drive,Washington,District of Columbia,20557
+562,1,1,562,42 Gina Junction,Saint Paul,Minnesota,55166
+563,1,1,563,837 Weeping Birch Park,Charleston,West Virginia,25321
+564,1,1,564,7059 Shelley Junction,Dayton,Ohio,45490
+565,1,1,565,9481 Anniversary Alley,Pueblo,Colorado,81015
+566,1,1,566,03 Glacier Hill Place,Baton Rouge,Louisiana,70820
+567,1,1,567,38 Cherokee Point,Gary,Indiana,46406
+568,1,1,568,42 East Center,Washington,District of Columbia,20551
+569,1,1,569,2624 Darwin Place,Minneapolis,Minnesota,55407
+570,1,1,570,3 Golf Course Point,Lake Worth,Florida,33467
+571,1,1,571,41 Pond Alley,Peoria,Illinois,61640
+572,1,1,572,36 Mockingbird Street,Van Nuys,California,91406
+573,1,1,573,3249 Becker Way,Philadelphia,Pennsylvania,19196
+574,1,1,574,9853 Rockefeller Crossing,Albuquerque,New Mexico,87190
+575,1,1,575,8 Caliangt Junction,Buffalo,New York,14269
+576,1,1,576,8 Mesta Point,Raleigh,North Carolina,27610
+577,1,1,577,9 Maryland Park,Roanoke,Virginia,24004
+578,1,1,578,16654 Steensland Lane,Jacksonville,Florida,32230
+579,1,1,579,7 Lawn Pass,Stamford,Connecticut,06922
+580,1,1,580,5 Fisk Court,Colorado Springs,Colorado,80940
+581,1,1,581,042 Warrior Drive,Waltham,Massachusetts,02453
+582,1,1,582,0 Paget Park,New Orleans,Louisiana,70149
+583,1,1,583,4924 Cambridge Drive,Springfield,Massachusetts,01129
+584,1,1,584,0 Duke Way,Fort Smith,Arkansas,72916
+585,1,1,585,36 Crownhardt Court,Alexandria,Virginia,22313
+586,1,1,586,506 Bartillon Parkway,Honolulu,Hawaii,96825
+587,1,1,587,1 Valley Edge Parkway,Honolulu,Hawaii,96840
+588,1,1,588,9 Oakridge Hill,Columbia,Missouri,65218
+589,1,1,589,3 Dryden Park,Evansville,Indiana,47732
+590,1,1,590,0 Caliangt Drive,Saint Augustine,Florida,32092
+591,1,1,591,262 Bartillon Place,Charlotte,North Carolina,28215
+592,1,1,592,304 Sheridan Street,Chicago,Illinois,60669
+593,1,1,593,527 8th Parkway,Greensboro,North Carolina,27425
+594,1,1,594,8 1st Pass,Dallas,Texas,75236
+595,1,1,595,22 Bashford Trail,Montgomery,Alabama,36104
+596,1,1,596,4 Porter Parkway,Chattanooga,Tennessee,37416
+597,1,1,597,462 Pennsylvania Avenue,Pompano Beach,Florida,33064
+598,1,1,598,7 Lakewood Gardens Hill,Glendale,California,91205
+599,1,1,599,163 Oakridge Terrace,Terre Haute,Indiana,47812
+600,1,1,600,2721 Dexter Avenue,Amarillo,Texas,79171
+601,1,1,601,8440 Meadow Vale Terrace,Pompano Beach,Florida,33064
+602,1,1,602,89415 Lakewood Drive,Memphis,Tennessee,38188
+603,1,1,603,2 4th Avenue,Rochester,New York,14609
+604,1,1,604,40460 Sunfield Trail,El Paso,Texas,79945
+605,1,1,605,9776 Gina Terrace,Las Vegas,Nevada,89160
+606,1,1,606,992 Fulton Street,Montgomery,Alabama,36195
+607,1,1,607,2 Mayfield Street,Washington,District of Columbia,56944
+608,1,1,608,2 Ridge Oak Parkway,Tucson,Arizona,85737
+609,1,1,609,560 Spaight Parkway,Reno,Nevada,89519
+610,1,1,610,5528 Hovde Avenue,Houston,Texas,77045
+611,1,1,611,41189 Iowa Street,Lancaster,Pennsylvania,17622
+612,1,1,612,07 Bonner Way,Lake Worth,Florida,33462
+613,1,1,613,86 Havey Alley,Saginaw,Michigan,48609
+614,1,1,614,72623 Northport Trail,Washington,District of Columbia,20580
+615,1,1,615,14 Sutherland Parkway,Toledo,Ohio,43635
+616,1,1,616,6392 Anzinger Lane,Los Angeles,California,90055
+617,1,1,617,9347 Swallow Pass,Des Moines,Iowa,50981
+618,1,1,618,1962 Spenser Plaza,Indianapolis,Indiana,46231
+619,1,1,619,2831 Main Crossing,Charleston,West Virginia,25326
+620,1,1,620,06489 Eagan Point,Mesa,Arizona,85210
+621,1,1,621,7 Vernon Circle,Portland,Maine,04109
+622,1,1,622,87112 Lindbergh Crossing,New Haven,Connecticut,06520
+623,1,1,623,7081 Dayton Pass,Louisville,Kentucky,40293
+624,1,1,624,663 Corben Terrace,Mesa,Arizona,85205
+625,1,1,625,84606 Dwight Center,Sacramento,California,94230
+626,1,1,626,5303 Del Mar Center,San Bernardino,California,92415
+627,1,1,627,8 Union Point,Tyler,Texas,75799
+628,1,1,628,5423 Express Hill,Los Angeles,California,90055
+629,1,1,629,512 Brown Avenue,Camden,New Jersey,08104
+630,1,1,630,893 Clyde Gallagher Circle,Sacramento,California,94291
+631,1,1,631,0 Corscot Trail,Grand Forks,North Dakota,58207
+632,1,1,632,73101 Maryland Terrace,Carol Stream,Illinois,60158
+633,1,1,633,7 Hagan Drive,Yakima,Washington,98907
+634,1,1,634,20612 Sommers Alley,El Paso,Texas,88546
+635,1,1,635,97 Brentwood Junction,Chicago,Illinois,60652
+636,1,1,636,0981 Di Loreto Road,Charleston,West Virginia,25313
+637,1,1,637,06163 Hazelcrest Place,Jackson,Mississippi,39296
+638,1,1,638,3 Cottonwood Drive,Santa Monica,California,90405
+639,1,1,639,8188 Warrior Street,Lincoln,Nebraska,68517
+640,1,1,640,138 Stephen Plaza,Modesto,California,95397
+641,1,1,641,0897 Fieldstone Way,Springfield,Massachusetts,01114
+642,1,1,642,440 Morning Park,Phoenix,Arizona,85015
+643,1,1,643,0 Northland Plaza,Alexandria,Virginia,22333
+644,1,1,644,5 Cordelia Road,Idaho Falls,Idaho,83405
+645,1,1,645,1631 Doe Crossing Hill,Miami,Florida,33190
+646,1,1,646,27247 Melody Circle,El Paso,Texas,88541
+647,1,1,647,47441 Stephen Road,Springfield,Illinois,62723
+648,1,1,648,6 Dahle Point,Columbus,Ohio,43210
+649,1,1,649,72259 Dwight Lane,Greensboro,North Carolina,27415
+650,1,1,650,5898 Logan Junction,Philadelphia,Pennsylvania,19196
+651,1,1,651,56746 Acker Plaza,Shawnee Mission,Kansas,66225
+652,1,1,652,78768 Mendota Drive,Houston,Texas,77010
+653,1,1,653,54 Caliangt Crossing,Phoenix,Arizona,85030
+654,1,1,654,4178 Gulseth Circle,Evansville,Indiana,47725
+655,1,1,655,43 Drewry Drive,Seattle,Washington,98195
+656,1,1,656,336 Schlimgen Way,Seattle,Washington,98195
+657,1,1,657,3 Almo Street,Boca Raton,Florida,33499
+658,1,1,658,59327 Texas Court,Pueblo,Colorado,81005
+659,1,1,659,583 Bayside Court,Denver,Colorado,80299
+660,1,1,660,69 Reinke Pass,Detroit,Michigan,48295
+661,1,1,661,52 Continental Road,Fresno,California,93773
+662,1,1,662,426 Victoria Parkway,Phoenix,Arizona,85020
+663,1,1,663,506 Stephen Hill,Chesapeake,Virginia,23324
+664,1,1,664,83 1st Park,Stamford,Connecticut,06912
+665,1,1,665,1261 Florence Court,New Orleans,Louisiana,70124
+666,1,1,666,60358 Dryden Plaza,Lehigh Acres,Florida,33972
+667,1,1,667,68 Northport Park,San Jose,California,95118
+668,1,1,668,8 Raven Plaza,Denver,Colorado,80262
+669,1,1,669,1624 Spohn Pass,Gainesville,Florida,32605
+670,1,1,670,92740 Morning Avenue,Des Moines,Iowa,50320
+671,1,1,671,039 Harper Trail,Brooklyn,New York,11205
+672,1,1,672,74 Pine View Junction,Beaverton,Oregon,97075
+673,1,1,673,5269 Morning Pass,San Antonio,Texas,78255
+674,1,1,674,71446 Miller Avenue,Carlsbad,California,92013
+675,1,1,675,531 Russell Trail,Stamford,Connecticut,06922
+676,1,1,676,76094 Westend Circle,El Paso,Texas,88579
+677,1,1,677,2859 Porter Center,Washington,District of Columbia,20244
+678,1,1,678,26 Stoughton Trail,Jacksonville,Florida,32255
+679,1,1,679,602 Tennessee Court,Tampa,Florida,33661
+680,1,1,680,5 Armistice Park,Tulsa,Oklahoma,74133
+681,1,1,681,9 Farwell Alley,Washington,District of Columbia,20220
+682,1,1,682,29 Katie Drive,Charlotte,North Carolina,28256
+683,1,1,683,0806 High Crossing Trail,Corpus Christi,Texas,78410
+684,1,1,684,05 Heath Alley,Macon,Georgia,31205
+685,1,1,685,14 Marquette Crossing,Washington,District of Columbia,20540
+686,1,1,686,072 Nova Terrace,Houston,Texas,77015
+687,1,1,687,2 Merchant Way,Decatur,Illinois,62525
+688,1,1,688,81 Farragut Pass,Whittier,California,90605
+689,1,1,689,1368 Myrtle Lane,Washington,District of Columbia,20260
+690,1,1,690,070 Mayer Pass,Irvine,California,92717
+691,1,1,691,48890 Blaine Plaza,Sarasota,Florida,34238
+692,1,1,692,99 Basil Lane,Grand Rapids,Michigan,49560
+693,1,1,693,25 Monument Street,Hollywood,Florida,33023
+694,1,1,694,96 Stuart Lane,Hyattsville,Maryland,20784
+695,1,1,695,436 Bartelt Place,Gatesville,Texas,76598
+696,1,1,696,81 Scoville Avenue,Reading,Pennsylvania,19610
+697,1,1,697,93307 Goodland Place,Oakland,California,94622
+698,1,1,698,90 Fair Oaks Road,Los Angeles,California,90076
+699,1,1,699,8857 Schlimgen Plaza,Fresno,California,93794
+700,1,1,700,15646 Lerdahl Court,Gary,Indiana,46406
+701,1,1,701,27633 Melby Center,Las Vegas,Nevada,89193
+702,1,1,702,3600 Starling Drive,Van Nuys,California,91411
+703,1,1,703,775 Eliot Point,Pueblo,Colorado,81010
+704,1,1,704,59960 Utah Plaza,Palm Bay,Florida,32909
+705,1,1,705,52 Corscot Parkway,Green Bay,Wisconsin,54305
+706,1,1,706,295 Green Hill,Youngstown,Ohio,44511
+707,1,1,707,48456 Melrose Point,Corona,California,92883
+708,1,1,708,84 Hintze Street,Colorado Springs,Colorado,80940
+709,1,1,709,112 Havey Junction,Charlotte,North Carolina,28215
+710,1,1,710,101 Mallory Circle,Indianapolis,Indiana,46221
+711,1,1,711,92016 Elgar Street,San Francisco,California,94142
+712,1,1,712,175 Granby Point,Washington,District of Columbia,20022
+713,1,1,713,826 Manitowish Court,New York City,New York,10175
+714,1,1,714,526 Bobwhite Alley,Los Angeles,California,90050
+715,1,1,715,3 Nova Court,Springfield,Virginia,22156
+716,1,1,716,47097 Acker Place,San Diego,California,92186
+717,1,1,717,68155 Mayer Road,Evansville,Indiana,47737
+718,1,1,718,85 Jenifer Crossing,Dallas,Texas,75210
+719,1,1,719,33933 Old Gate Junction,Madison,Wisconsin,53705
+720,1,1,720,5 Dorton Alley,San Jose,California,95118
+721,1,1,721,6 Garrison Junction,Birmingham,Alabama,35225
+722,1,1,722,961 Texas Street,Helena,Montana,59623
+723,1,1,723,737 Dexter Alley,Philadelphia,Pennsylvania,19196
+724,1,1,724,93 8th Circle,Dayton,Ohio,45490
+725,1,1,725,6 Redwing Avenue,Tampa,Florida,33605
+726,1,1,726,10166 Bonner Place,Alexandria,Virginia,22301
+727,1,1,727,8591 Dovetail Center,Lansing,Michigan,48930
+728,1,1,728,3872 Victoria Road,Charleston,West Virginia,25362
+729,1,1,729,20 Russell Circle,Louisville,Kentucky,40266
+730,1,1,730,3198 Buell Drive,Detroit,Michigan,48242
+731,1,1,731,32 Ohio Parkway,Cleveland,Ohio,44105
+732,1,1,732,344 Fairview Junction,Indianapolis,Indiana,46254
+733,1,1,733,490 Schurz Circle,Winston Salem,North Carolina,27110
+734,1,1,734,6 Forster Way,Houston,Texas,77240
+735,1,1,735,619 Bashford Terrace,Huntington Beach,California,92648
+736,1,1,736,7 7th Parkway,Reading,Pennsylvania,19610
+737,1,1,737,79 Warbler Parkway,Shawnee Mission,Kansas,66225
+738,1,1,738,396 Mayfield Circle,Muskegon,Michigan,49444
+739,1,1,739,85304 Eastlawn Street,Madison,Wisconsin,53790
+740,1,1,740,969 Rowland Lane,Philadelphia,Pennsylvania,19125
+741,1,1,741,2 Monterey Hill,Rockford,Illinois,61110
+742,1,1,742,6 Kipling Street,Maple Plain,Minnesota,55579
+743,1,1,743,60103 Corben Park,Rochester,New York,14604
+744,1,1,744,8 Blackbird Drive,New York City,New York,10184
+745,1,1,745,20 Fair Oaks Way,San Jose,California,95128
+746,1,1,746,9573 Reinke Place,Pensacola,Florida,32511
+747,1,1,747,03 Manufacturers Pass,New Orleans,Louisiana,70160
+748,1,1,748,2307 Moulton Junction,Stockton,California,95205
+749,1,1,749,8898 Judy Road,Minneapolis,Minnesota,55458
+750,1,1,750,36602 Stang Park,Raleigh,North Carolina,27621
+751,1,1,751,86 Johnson Way,Washington,District of Columbia,20370
+752,1,1,752,9583 Melby Drive,Pueblo,Colorado,81005
+753,1,1,753,3659 Ruskin Point,Philadelphia,Pennsylvania,19115
+754,1,1,754,36 Tennessee Drive,Jamaica,New York,11470
+755,1,1,755,55480 Shopko Pass,Philadelphia,Pennsylvania,19196
+756,1,1,756,2248 Superior Terrace,Tucson,Arizona,85710
+757,1,1,757,54 Lakeland Crossing,Amarillo,Texas,79116
+758,1,1,758,7676 Leroy Crossing,Durham,North Carolina,27705
+759,1,1,759,03874 Talisman Road,Savannah,Georgia,31416
+760,1,1,760,14 Cherokee Point,Rochester,New York,14683
+761,1,1,761,7 4th Parkway,Fort Myers,Florida,33913
+762,1,1,762,3277 Moulton Crossing,Oakland,California,94611
+763,1,1,763,4932 Hallows Hill,Cincinnati,Ohio,45238
+764,1,1,764,03 Dexter Pass,Valley Forge,Pennsylvania,19495
+765,1,1,765,87632 Meadow Ridge Trail,Greenville,South Carolina,29605
+766,1,1,766,41 Utah Terrace,New York City,New York,10249
+767,1,1,767,7901 Hauk Crossing,Brooklyn,New York,11225
+768,1,1,768,8715 Hoepker Drive,Nashville,Tennessee,37210
+769,1,1,769,1 Spaight Place,Detroit,Michigan,48242
+770,1,1,770,1339 5th Pass,Houston,Texas,77276
+771,1,1,771,4 Anniversary Terrace,Madison,Wisconsin,53790
+772,1,1,772,607 Spohn Place,Milwaukee,Wisconsin,53234
+773,1,1,773,4 Arkansas Plaza,Kalamazoo,Michigan,49006
+774,1,1,774,244 Bayside Hill,Wilmington,North Carolina,28405
+775,1,1,775,558 Farragut Trail,El Paso,Texas,79984
+776,1,1,776,826 Schmedeman Lane,Gilbert,Arizona,85297
+777,1,1,777,19256 Sunbrook Place,Wichita,Kansas,67230
+778,1,1,778,07 Gina Parkway,Beaumont,Texas,77713
+779,1,1,779,2 Arapahoe Center,Kansas City,Missouri,64179
+780,1,1,780,671 Del Sol Point,Indianapolis,Indiana,46202
+781,1,1,781,8 Gerald Terrace,Washington,District of Columbia,20591
+782,1,1,782,820 Burning Wood Park,Austin,Texas,78778
+783,1,1,783,1037 Brickson Park Point,Hialeah,Florida,33018
+784,1,1,784,5 Brown Junction,Richmond,Virginia,23272
+785,1,1,785,355 Gerald Terrace,Kansas City,Missouri,64193
+786,1,1,786,566 Sycamore Hill,Miami,Florida,33245
+787,1,1,787,6 Gulseth Center,San Antonio,Texas,78220
+788,1,1,788,7726 Fair Oaks Court,Detroit,Michigan,48211
+789,1,1,789,92 Melvin Point,Dallas,Texas,75372
+790,1,1,790,91 West Road,El Paso,Texas,88579
+791,1,1,791,725 Jenifer Place,Milwaukee,Wisconsin,53277
+792,1,1,792,71355 Chinook Terrace,Florence,South Carolina,29505
+793,1,1,793,440 Porter Place,Albany,New York,12262
+794,1,1,794,30 Spenser Pass,New York City,New York,10175
+795,1,1,795,41 Pierstorff Road,Louisville,Kentucky,40220
+796,1,1,796,36 Alpine Place,Erie,Pennsylvania,16550
+797,1,1,797,1863 Manufacturers Lane,Pasadena,California,91186
+798,1,1,798,7 Del Mar Park,Lynchburg,Virginia,24515
+799,1,1,799,73339 Westend Lane,Wilmington,North Carolina,28410
+800,1,1,800,99 Steensland Hill,Metairie,Louisiana,70033
+801,1,1,801,580 Stang Circle,Melbourne,Florida,32941
+802,1,1,802,7 1st Park,Sarasota,Florida,34233
+803,1,1,803,852 Fisk Circle,Montgomery,Alabama,36177
+804,1,1,804,3 Oxford Point,Los Angeles,California,90020
+805,1,1,805,74071 Ramsey Trail,Columbus,Ohio,43220
+806,1,1,806,76 Green Court,Omaha,Nebraska,68117
+807,1,1,807,3826 Graceland Avenue,El Paso,Texas,88541
+808,1,1,808,08605 Forest Dale Lane,Decatur,Illinois,62525
+809,1,1,809,38501 Troy Parkway,Buffalo,New York,14276
+810,1,1,810,6 Steensland Hill,Indianapolis,Indiana,46295
+811,1,1,811,4115 Daystar Road,Columbus,Ohio,43284
+812,1,1,812,07571 Sycamore Plaza,Washington,District of Columbia,20062
+813,1,1,813,4 Saint Paul Point,Saint Louis,Missouri,63196
+814,1,1,814,43 Karstens Street,Fullerton,California,92835
+815,1,1,815,184 Moland Parkway,Louisville,Kentucky,40280
+816,1,1,816,8 Waxwing Road,Austin,Texas,78759
+817,1,1,817,1993 Upham Alley,Houston,Texas,77005
+818,1,1,818,58072 Hudson Crossing,Philadelphia,Pennsylvania,19136
+819,1,1,819,44 Union Circle,Des Moines,Iowa,50981
+820,1,1,820,1 Elka Parkway,Houston,Texas,77035
+821,1,1,821,8 Center Alley,Cleveland,Ohio,44197
+822,1,1,822,80 Ilene Avenue,Edmond,Oklahoma,73034
+823,1,1,823,6460 Melby Terrace,El Paso,Texas,79923
+824,1,1,824,5303 Montana Alley,Arlington,Virginia,22212
+825,1,1,825,44 Graedel Parkway,Phoenix,Arizona,85083
+826,1,1,826,005 Pond Drive,Charlotte,North Carolina,28242
+827,1,1,827,1 Dunning Trail,Aurora,Colorado,80045
+828,1,1,828,7286 Northridge Circle,Wichita,Kansas,67260
+829,1,1,829,527 Fieldstone Trail,Salt Lake City,Utah,84189
+830,1,1,830,7 Almo Park,Washington,District of Columbia,20010
+831,1,1,831,7 Evergreen Terrace,Macon,Georgia,31210
+832,1,1,832,1 Gerald Center,Huntsville,Alabama,35805
+833,1,1,833,28 Gerald Terrace,Sacramento,California,95894
+834,1,1,834,984 Charing Cross Hill,Lynchburg,Virginia,24503
+835,1,1,835,15 Grover Terrace,New Orleans,Louisiana,70160
+836,1,1,836,52656 Stang Place,Charlotte,North Carolina,28299
+837,1,1,837,948 Bellgrove Center,Jefferson City,Missouri,65110
+838,1,1,838,71 Marquette Court,Pueblo,Colorado,81005
+839,1,1,839,4 Delaware Alley,Garden Grove,California,92844
+840,1,1,840,82928 Fulton Park,Washington,District of Columbia,56944
+841,1,1,841,827 North Terrace,Greensboro,North Carolina,27499
+842,1,1,842,0 Vera Trail,Washington,District of Columbia,20244
+843,1,1,843,529 Gale Road,Bronx,New York,10454
+844,1,1,844,0 Sugar Point,Oklahoma City,Oklahoma,73119
+845,1,1,845,5 Eagan Pass,Pensacola,Florida,32505
+846,1,1,846,34 Lien Hill,Riverside,California,92519
+847,1,1,847,4 Grayhawk Point,Madison,Wisconsin,53716
+848,1,1,848,3 Heffernan Hill,Pittsburgh,Pennsylvania,15205
+849,1,1,849,199 Dixon Drive,Carol Stream,Illinois,60158
+850,1,1,850,06467 Shasta Lane,Detroit,Michigan,48211
+851,1,1,851,4090 Springs Drive,Peoria,Illinois,61651
+852,1,1,852,63 Sundown Lane,Fort Lauderdale,Florida,33315
+853,1,1,853,9918 Pleasure Trail,Richmond,Virginia,23228
+854,1,1,854,1304 Carpenter Circle,Montgomery,Alabama,36109
+855,1,1,855,9 Loftsgordon Crossing,Olympia,Washington,98516
+856,1,1,856,92295 Messerschmidt Terrace,Topeka,Kansas,66617
+857,1,1,857,5 Maryland Alley,Houston,Texas,77045
+858,1,1,858,25002 Cordelia Terrace,West Hartford,Connecticut,06127
+859,1,1,859,33 Gateway Court,Washington,District of Columbia,20414
+860,1,1,860,487 Harper Trail,Huntington,West Virginia,25775
+861,1,1,861,744 Katie Trail,Salt Lake City,Utah,84105
+862,1,1,862,6 Starling Road,Greenville,South Carolina,29605
+863,1,1,863,84 Karstens Trail,Anchorage,Alaska,99512
+864,1,1,864,4 Trailsway Court,Largo,Florida,33777
+865,1,1,865,103 Alpine Crossing,Madison,Wisconsin,53779
+866,1,1,866,9 Cherokee Park,Denton,Texas,76205
+867,1,1,867,68 Prentice Street,Fort Smith,Arkansas,72905
+868,1,1,868,4099 Vernon Pass,Durham,North Carolina,27710
+869,1,1,869,63985 Morrow Way,Tulsa,Oklahoma,74156
+870,1,1,870,534 Northfield Plaza,Indianapolis,Indiana,46216
+871,1,1,871,768 Starling Avenue,Young America,Minnesota,55551
+872,1,1,872,7055 Park Meadow Park,Evansville,Indiana,47732
+873,1,1,873,21972 Mitchell Trail,Arlington,Texas,76016
+874,1,1,874,6 Dottie Avenue,Chandler,Arizona,85246
+875,1,1,875,863 Transport Place,Baton Rouge,Louisiana,70836
+876,1,1,876,42 Hintze Street,Atlanta,Georgia,30306
+877,1,1,877,96 Independence Junction,Omaha,Nebraska,68164
+878,1,1,878,58719 Drewry Park,Washington,District of Columbia,20226
+879,1,1,879,4370 Village Green Terrace,Miami,Florida,33180
+880,1,1,880,775 Crownhardt Trail,San Francisco,California,94137
+881,1,1,881,920 Bartelt Lane,Houston,Texas,77035
+882,1,1,882,785 Shoshone Alley,Port Washington,New York,11054
+883,1,1,883,0 Moulton Pass,Harrisburg,Pennsylvania,17110
+884,1,1,884,81867 Logan Park,Abilene,Texas,79699
+885,1,1,885,8674 Shopko Plaza,Bismarck,North Dakota,58505
+886,1,1,886,21 Buhler Hill,Springfield,Illinois,62705
+887,1,1,887,1225 Becker Center,Amarillo,Texas,79171
+888,1,1,888,00 Loomis Plaza,Salt Lake City,Utah,84120
+889,1,1,889,1 Hudson Street,Montgomery,Alabama,36177
+890,1,1,890,26 Old Gate Junction,Baltimore,Maryland,21203
+891,1,1,891,5 Muir Court,Hayward,California,94544
+892,1,1,892,176 Chive Alley,Tampa,Florida,33673
+893,1,1,893,46 Saint Paul Street,Dallas,Texas,75246
+894,1,1,894,90 Thackeray Lane,Oklahoma City,Oklahoma,73109
+895,1,1,895,138 Carpenter Road,Newport Beach,California,92662
+896,1,1,896,6 Lawn Center,Honolulu,Hawaii,96825
+897,1,1,897,3039 Nancy Point,Charleston,West Virginia,25389
+898,1,1,898,3 Laurel Hill,Chicago,Illinois,60674
+899,1,1,899,1 Union Place,New Castle,Pennsylvania,16107
+900,1,1,900,7775 Lake View Pass,Stockton,California,95210
+901,1,1,901,854 Calypso Plaza,Naples,Florida,34114
+902,1,1,902,10085 Westend Trail,New Bedford,Massachusetts,02745
+903,1,1,903,84255 Roth Place,Abilene,Texas,79699
+904,1,1,904,77483 Transport Junction,Torrance,California,90505
+905,1,1,905,9 Bunting Center,San Francisco,California,94154
+906,1,1,906,521 Bultman Alley,Washington,District of Columbia,20380
+907,1,1,907,3304 Sommers Road,Saint Petersburg,Florida,33715
+908,1,1,908,2 Browning Junction,Lexington,Kentucky,40596
+909,1,1,909,2093 Blue Bill Park Circle,Hattiesburg,Mississippi,39404
+910,1,1,910,4408 Carpenter Junction,Rochester,New York,14614
+911,1,1,911,517 Arapahoe Park,Orlando,Florida,32868
+912,1,1,912,264 Dovetail Center,Anchorage,Alaska,99517
+913,1,1,913,95372 West Trail,Laurel,Maryland,20709
+914,1,1,914,97794 Manley Hill,Bloomington,Illinois,61709
+915,1,1,915,126 Derek Park,Loretto,Minnesota,55598
+916,1,1,916,94425 Morning Junction,Omaha,Nebraska,68197
+917,1,1,917,033 Merchant Plaza,Oklahoma City,Oklahoma,73114
+918,1,1,918,2218 Morrow Parkway,Brooklyn,New York,11254
+919,1,1,919,36119 Pearson Center,Glendale,California,91205
+920,1,1,920,75 Roth Circle,Albuquerque,New Mexico,87190
+921,1,1,921,0 Vera Junction,Orlando,Florida,32825
+922,1,1,922,01349 Pine View Place,Dayton,Ohio,45419
+923,1,1,923,3251 Valley Edge Pass,Akron,Ohio,44329
+924,1,1,924,31896 Stone Corner Pass,New Orleans,Louisiana,70174
+925,1,1,925,2306 Bluejay Way,Saint Petersburg,Florida,33737
+926,1,1,926,5198 Bunker Hill Alley,Minneapolis,Minnesota,55436
+927,1,1,927,35 Alpine Pass,Portland,Oregon,97232
+928,1,1,928,916 Oriole Circle,Saint Joseph,Missouri,64504
+929,1,1,929,606 Ridgeway Court,San Antonio,Texas,78291
+930,1,1,930,825 Marcy Drive,Tulsa,Oklahoma,74184
+931,1,1,931,5 Canary Road,Albuquerque,New Mexico,87201
+932,1,1,932,0 Commercial Alley,Amarillo,Texas,79182
+933,1,1,933,6 Ronald Regan Avenue,New Hyde Park,New York,11044
+934,1,1,934,414 Crest Line Alley,Minneapolis,Minnesota,55436
+935,1,1,935,81790 Warrior Place,Youngstown,Ohio,44511
+936,1,1,936,2334 Elgar Point,Jackson,Tennessee,38308
+937,1,1,937,8 Delladonna Court,Kansas City,Missouri,64101
+938,1,1,938,254 Talisman Point,Montgomery,Alabama,36134
+939,1,1,939,56225 Mesta Pass,Arlington,Virginia,22244
+940,1,1,940,9 Acker Terrace,Fort Lauderdale,Florida,33305
+941,1,1,941,0385 Roth Park,Seattle,Washington,98140
+942,1,1,942,2 Duke Park,Visalia,California,93291
+943,1,1,943,857 Vahlen Parkway,Lansing,Michigan,48919
+944,1,1,944,4 Northfield Circle,Roanoke,Virginia,24009
+945,1,1,945,6 Miller Park,Salt Lake City,Utah,84115
+946,1,1,946,734 Nelson Junction,Decatur,Illinois,62525
+947,1,1,947,6 Norway Maple Way,Lincoln,Nebraska,68524
+948,1,1,948,47 Erie Court,Oklahoma City,Oklahoma,73119
+949,1,1,949,88375 Gerald Street,Silver Spring,Maryland,20910
+950,1,1,950,42 Duke Point,Charlotte,North Carolina,28272
+951,1,1,951,0 Sherman Way,Houston,Texas,77223
+952,1,1,952,69 Sugar Hill,Fresno,California,93721
+953,1,1,953,53065 Buell Circle,Orlando,Florida,32813
+954,1,1,954,757 Pepper Wood Drive,Jersey City,New Jersey,07310
+955,1,1,955,548 Shopko Plaza,Modesto,California,95354
+956,1,1,956,75070 Merchant Terrace,Jacksonville,Florida,32215
+957,1,1,957,59 Del Sol Trail,Alexandria,Louisiana,71307
+958,1,1,958,6135 Nelson Court,Erie,Pennsylvania,16534
+959,1,1,959,1328 Waxwing Plaza,Chicago,Illinois,60624
+960,1,1,960,10 Birchwood Trail,San Antonio,Texas,78278
+961,1,1,961,10 Grim Circle,Charlotte,North Carolina,28235
+962,1,1,962,789 Cascade Circle,Raleigh,North Carolina,27610
+963,1,1,963,86910 Muir Terrace,Louisville,Kentucky,40287
+964,1,1,964,04689 Vernon Road,Evansville,Indiana,47747
+965,1,1,965,9 Farwell Lane,Lincoln,Nebraska,68583
+966,1,1,966,0 Johnson Crossing,Pittsburgh,Pennsylvania,15261
+967,1,1,967,945 Anthes Avenue,Tyler,Texas,75799
+968,1,1,968,69 Miller Circle,Salt Lake City,Utah,84125
+969,1,1,969,8 Village Green Road,Waterbury,Connecticut,06721
+970,1,1,970,74086 Buhler Circle,Phoenix,Arizona,85062
+971,1,1,971,8093 Sutherland Terrace,Birmingham,Alabama,35279
+972,1,1,972,2 Randy Road,Waco,Texas,76705
+973,1,1,973,78144 Main Place,Laredo,Texas,78044
+974,1,1,974,2498 Esker Park,New York City,New York,10125
+975,1,1,975,6435 Everett Terrace,Washington,District of Columbia,20046
+976,1,1,976,39 Oxford Crossing,Fort Worth,Texas,76134
+977,1,1,977,548 Toban Plaza,Duluth,Minnesota,55805
+978,1,1,978,502 Bartelt Crossing,Merrifield,Virginia,22119
+979,1,1,979,60407 Melvin Pass,Panama City,Florida,32412
+980,1,1,980,7 Browning Junction,Reston,Virginia,20195
+981,1,1,981,940 Gerald Park,New York City,New York,10275
+982,1,1,982,1 Charing Cross Avenue,Charlotte,North Carolina,28235
+983,1,1,983,096 Tomscot Park,Portland,Oregon,97255
+984,1,1,984,09687 Schlimgen Alley,Galveston,Texas,77554
+985,1,1,985,43201 Valley Edge Drive,Alexandria,Virginia,22313
+986,1,1,986,97374 Thompson Trail,Oceanside,California,92056
+987,1,1,987,07 Dawn Parkway,Buffalo,New York,14269
+988,1,1,988,91387 Summerview Road,New York City,New York,10019
+989,1,1,989,22 Parkside Court,El Paso,Texas,79989
+990,1,1,990,2 Morrow Junction,San Antonio,Texas,78220
+991,1,1,991,2727 Sugar Drive,Charlotte,North Carolina,28278
+992,1,1,992,929 Logan Center,Memphis,Tennessee,38126
+993,1,1,993,63 Magdeline Hill,Birmingham,Alabama,35242
+994,1,1,994,2205 Luster Center,Springfield,Illinois,62705
+995,1,1,995,716 La Follette Hill,Flint,Michigan,48555
+996,1,1,996,168 6th Street,Fresno,California,93794
+997,1,1,997,8316 Mesta Way,San Jose,California,95113
+998,1,1,998,06 Bartillon Place,Midland,Texas,79710
+999,1,1,999,73 Lukken Place,Glendale,Arizona,85305
+1000,1,1,1000,0 Melody Avenue,West Palm Beach,Florida,33411
